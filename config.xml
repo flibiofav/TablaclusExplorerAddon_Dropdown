@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<root>  
+	<General>
+		<Version>1.00</Version>
+		<Name>Dropdown</Name>  
+		<Description>Adds "Folder Dropdown" to the type.</Description>  
+		<Level>2</Level>  
+		<Creator>flibiofav</Creator>
+		<URL>https://github.com/flibiofav/TablaclusExplorerAddon_Dropdown</URL>
+		<License>MIT License</License>
+	</General>
+	<en>
+		<Name>Dropdown</Name>
+		<Description>Add "Folder Dropdown" to the type.</Description>
+	</en>
+	<ca>
+		<Name>Dropdown</Name>
+		<Description>Afegeix "Folder Dropdown" a la llista de tipus.</Description>
+	</ca>
+</root>
